@@ -1,0 +1,17 @@
+.table {
+  width: 450px;
+  border-collapse: collapse;
+  margin-top: 50px;
+}
+.th,
+.td {
+  background-color: bisque;
+  text-align: left;
+  padding: 8px;
+  font-weight: bold;
+  border: 1px solid #ccc;
+}
+.td {
+  background-color: cornsilk;
+  width: 150px;
+}
